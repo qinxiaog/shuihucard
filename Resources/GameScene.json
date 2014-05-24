@@ -1,0 +1,44 @@
+{
+    "data": [
+                 {
+                 "startData":
+                 {
+                    "chaPos":1,
+                    "chaDirection":1,
+                    "chaCurrentHp":100,
+                    "chaTotalHp":100
+                 },
+                 "name":"宋江"
+                 },
+             {
+             "startData":
+             {
+             "chaPos":2,
+             "chaDirection":1,
+             "chaCurrentHp":100,
+             "chaTotalHp":100
+             },
+             "name":"流氓"
+             },
+             {
+             "startData":
+             {
+             "chaPos":3,
+             "chaDirection":1,
+             "chaCurrentHp":100,
+             "chaTotalHp":100
+             },
+             "name":"流氓"
+             },
+             {
+             "startData":
+             {
+             "chaPos":4,
+             "chaDirection":1,
+             "chaCurrentHp":100,
+             "chaTotalHp":100
+             },
+             "name":"流氓"
+             }
+            ]
+}
